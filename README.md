@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Dr S Hendricks
 
-You can use the [editor on GitHub](https://github.com/DrSHendricks/DrSHendricks.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Lost in Coding, programming, data analysis and research
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Interest
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Financial Markets and Financial Regulation
 
 ```markdown
 Syntax highlighted code block
