@@ -1,15 +1,4 @@
-  <head>
-  <title>Hello, World!</title>
- </head>
-
-<div align="center">
- <h1> Dr S Hendricks</h1>
-</div>
-<br>
-
-## _Lost in Coding, programming, data analysis and research_
-
-### Passionate about **_Financial Markets and Financial Regulation_**
+## Passionate about **_Financial Markets and Financial Regulation_**
 
 ### Network Analysis
 
