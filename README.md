@@ -1,7 +1,7 @@
 ## Passionate about **_Financial Markets and Financial Regulation_**
 
 ### Publications
-- [Huang, Sherena Sheng (2021). Crypto assets regulation in the UK: an assessment of the regulatory effectiveness and consistency. _Journal of Financial Regulation and Compliance_,. Available at: https://doi.org/10.1108/JFRC0620200062.](https://doi.org/10.1108/JFRC0620200062)
+- [Huang, Sherena Sheng (2021). Crypto assets regulation in the UK: an assessment of the regulatory effectiveness and consistency. _Journal of Financial Regulation and Compliance.](https://doi.org/10.1108/JFRC0620200062)
 - [Huang, S. (2021). Cryptocurrency and Crime. In: A. Lui and N. Ryder, eds., _FinTech, Artificial Intelligence and the Law: Regulation and Crime Prevention_. Routledge.](https://www.routledge.com/FinTech-Artificial-Intelligence-and-the-Law-Regulation-and-Crime-Prevention/Lui-Ryder/p/book/9780367897659)
 
 ### Statistical Analysis
@@ -23,7 +23,7 @@
 
 **- Suspicious Transactions Between 2000 and 2017 in the US**
 
-<iframe src="https://www.kaggle.com/embed/sherena/spatial-analysis-of-suspicious-transactions?kernelSessionId=65279366" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Suspicious Transactions shown on charts and maps"></iframe>
+<iframe src="https://www.kaggle.com/embed/sherena/spatial-analysis-of-suspicious-transactions?kernelSessionId=65279366" height="600" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Suspicious Transactions shown on charts and maps"></iframe>
 
 
 
