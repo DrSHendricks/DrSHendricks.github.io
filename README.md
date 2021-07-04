@@ -1,13 +1,13 @@
 ## Passionate about **_Financial Markets and Financial Regulation_**
 
 ### Publications
-- [Huang, Sherena Sheng (2021). Crypto assets regulation in the UK: an assessment of the regulatory effectiveness and consistency. _Journal of Financial Regulation and Compliance.](https://doi.org/10.1108/JFRC0620200062)
+- [Huang, Sherena Sheng (2021). Crypto assets regulation in the UK: an assessment of the regulatory effectiveness and consistency. _Journal of Financial Regulation and Compliance_.](https://doi.org/10.1108/JFRC0620200062)
 - [Huang, S. (2021). Cryptocurrency and Crime. In: A. Lui and N. Ryder, eds., _FinTech, Artificial Intelligence and the Law: Regulation and Crime Prevention_. Routledge.](https://www.routledge.com/FinTech-Artificial-Intelligence-and-the-Law-Regulation-and-Crime-Prevention/Lui-Ryder/p/book/9780367897659)
 
 ### Statistical Analysis
 **- Bank Efficiency and Productivity between 2003 and 2013**
 
-<iframe src="https://public.tableau.com/views/Test_15895508960040/Story1?:showVizHome=no&:embed=true" width="600px" height="400px"></iframe>
+<iframe src="https://public.tableau.com/views/Test_15895508960040/Story1?:showVizHome=no&:embed=true" width="800px" height="400px"></iframe>
 
 ### Network Analysis
 
