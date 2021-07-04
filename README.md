@@ -11,7 +11,7 @@
 ### Statistical Analysis
 - [Bank Efficiency and Productivity between 2003 and 2013]()
 
-<iframe src="https://public.tableau.com/views/Test_15895508960040/Dashboard1?:showVizHome=no&:embed=true" width="1080px" height="1080px"></iframe>
+<iframe src="https://public.tableau.com/views/Test_15895508960040/Sotry1?:showVizHome=no&:embed=true" width="960px" height="960px"></iframe>
 
 
 
