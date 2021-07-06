@@ -1,4 +1,4 @@
-## In **_Financial Markets and Financial Regulation_**
+## **_Financial Markets, Regulation and Financial Crime_**
 
 ## Publications
 - Huang, S. (2021). Crypto assets regulation in the UK: an assessment of the regulatory effectiveness and consistency. _Journal of Financial Regulation and Compliance_.
