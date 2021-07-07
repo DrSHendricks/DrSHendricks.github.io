@@ -10,7 +10,7 @@ Efficiency and Productivity and constituents are measured from a risk-adjusted c
 ### Scroll right or left to see the full story
 <iframe src="https://public.tableau.com/views/Test_15895508960040/Story1?:showVizHome=no&:embed=true" width="800px" height="400px"></iframe> <br/>
 - **Liquidity Measure Three Ways**
-<iframe src="https://public.tableau.com/views/LiquidityComovement/LiquidityCo-movementbetweenFinancialInstitutionsandRealEstates?:showVizHome=no&:embed=true" width="80%" height="100%"></iframe> <br/>
+<iframe src="https://public.tableau.com/views/LiquidityComovement/LiquidityCo-movementbetweenFinancialInstitutionsandRealEstates?:showVizHome=no&:embed=true" width="800px" height="600px"></iframe> <br/>
 
 ## Network Analysis
 - **Criminals in Yorkshare between 2000 and 2019, UK** <br/>
