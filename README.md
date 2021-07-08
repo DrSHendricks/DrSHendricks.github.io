@@ -8,11 +8,11 @@
 - **Bank Efficiency and Productivity between 2003 and 2013** <br/>
 Efficiency and Productivity and constituents are measured from a risk-adjusted cost function and Stochastic Frontier. <br/>
 The estimates indicate performance gaps between a firm and industry benchmarks. <br/>
-### Scroll right or left to see the full story
+### Scroll right or left to see more
 <iframe src="https://public.tableau.com/views/Test_15895508960040/Story1?:showVizHome=no&:embed=true" width="800px" height="400px"></iframe> <br/>
 - **Liquidity Measure Three Ways and Liquidity Co-movement between Two Industries** <br/>
 The estimates illustrate a commonality in market liquidity and potential risks of liquidity transmission among industries. <br/>
-### Scroll right or left to see the full story
+### Click different measures to see more
 <iframe src="https://public.tableau.com/views/LiquidityComovement/LiquidityCo-movementbetweenFinancialInstitutionsandRealEstates?:showVizHome=no&:embed=true" width="800px" height="400px"></iframe> <br/>
 
 ## Network Analysis
