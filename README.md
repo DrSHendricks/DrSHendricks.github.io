@@ -1,5 +1,5 @@
 ## **_FinTech Law, Regulation and Crime_**
-## De S Huang
+## Dr S Huang
 ## Publications
 - [Huang, S. (2021). Crypto assets regulation in the UK: an assessment of the regulatory effectiveness and consistency. _Journal of Financial Regulation and Compliance_.](https://doi.org/10.1108/JFRC-06-2020-0062)
 - [Huang, S. (2021). Cryptocurrency and Crime. In: A. Lui and N. Ryder, eds., _FinTech, Artificial Intelligence and the Law: Regulation and Crime Prevention_. Routledge.](https://www.routledge.com/FinTech-Artificial-Intelligence-and-the-Law-Regulation-and-Crime-Prevention/Lui-Ryder/p/book/9780367897659)<br/>
