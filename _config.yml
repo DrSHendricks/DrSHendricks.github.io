@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: [FinTech Law, Regulation and Crime]
 description: [Dr S.Hendricks.]
+
+theme: jekyll-theme-cayman
