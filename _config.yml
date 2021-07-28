@@ -1,3 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 title: FinTech Law, Regulation and Crime
 description: Dr S.H.
+
+theme: jekyll-theme-architect
