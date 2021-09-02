@@ -1,7 +1,7 @@
 ## **_Research and Analysis_**
 ## Publications
-- [Huang, S. (2021). Crypto assets regulation in the UK: an assessment of the regulatory effectiveness and consistency. _Journal of Financial Regulation and Compliance_.](https://doi.org/10.1108/JFRC-06-2020-0062)
-- [Huang, S. (2021). Chapter 8, Cryptocurrency and Crime. In: A. Lui and N. Ryder, eds., _FinTech, Artificial Intelligence and the Law: Regulation and Crime Prevention_. Routledge.](https://www.routledge.com/FinTech-Artificial-Intelligence-and-the-Law-Regulation-and-Crime-Prevention/Lui-Ryder/p/book/9780367897659)<br/>
+- [Huang, S. (2021). Crypto assets regulation in the UK: an assessment of the regulatory effectiveness and consistency. _Journal of Financial Regulation and Compliance,_ 29(3), pp.336-351.](https://doi.org/10.1108/JFRC-06-2020-0062)
+- [Huang, S. (2021). Chapter 8, Cryptocurrency and Crime. In: A. Lui and N. Ryder, eds., _FinTech, Artificial Intelligence and the Law: Regulation and Crime Prevention_. Routledge, pp.125-143.](https://www.routledge.com/FinTech-Artificial-Intelligence-and-the-Law-Regulation-and-Crime-Prevention/Lui-Ryder/p/book/9780367897659)<br/>
 
 ## Network Analysis
 - **Criminals in Yorkshare between 2000 and 2019, UK** <br/>
