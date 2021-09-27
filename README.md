@@ -13,7 +13,8 @@ The analysis demonstrates the impact of police stations on criminal nests <br/>
 The analysis summarises the trends and distributions of suspicious transactions flowing in to and out of America. <br/>
 <script src="https://gist.github.com/DrSHendricks/2759bf9bed7ec0ce2a17b77d665dbe53.js"></script> <br/>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DrSHendricks/FinTech/main?filepath=fincen-map-and-flow-of-suspicious-transactions.ipynb)
-
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/DrSHendricks/FinTech/main?filepath=fincen-map-and-flow-of-suspicious-transactions.ipynb
 
 ## Financial Market Analysis
 - **Liquidity Measure Three Ways** <br/>
