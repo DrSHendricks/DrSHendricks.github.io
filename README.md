@@ -11,9 +11,9 @@ The analysis demonstrates the impact of police stations on criminal nests <br/>
 
 - **Suspicious Transactions (money laundering) Between 2000 and 2017 in the US** <br/>
 The analysis summarises the trends and distributions of suspicious transactions flowing in to and out of America. <br/>
-<script src="https://gist.github.com/DrSHendricks/2759bf9bed7ec0ce2a17b77d665dbe53.js"></script> <br/>
-<script src="https://mybinder.org/v2/gh/DrSHendricks/FinTech/HEAD?filepath=FinCen%20Map.ipynb"></script> <br/>
+Click the button below to run the code. <br/>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DrSHendricks/FinTech/HEAD?filepath=FinCen%20Map.ipynb)
+<script src="https://gist.github.com/DrSHendricks/2759bf9bed7ec0ce2a17b77d665dbe53.js"></script> <br/>
 
 ## Financial Market Analysis
 - **Liquidity Measure Three Ways** <br/>
