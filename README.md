@@ -4,7 +4,7 @@
 - [Huang, S. (2021). Chapter 8, Cryptocurrency and Crime. In: A. Lui and N. Ryder, eds., _FinTech, Artificial Intelligence and the Law: Regulation and Crime Prevention_. Routledge, pp.125-143.](https://www.routledge.com/FinTech-Artificial-Intelligence-and-the-Law-Regulation-and-Crime-Prevention/Lui-Ryder/p/book/9780367897659)<br/>
 
 ## Network Analysis
-- **Criminals in Yorkshare between 2000 and 2019, UK** <br/>
+- **Criminals in Lincolnshire between 2000 and 2019, UK** <br/>
 The analysis demonstrates the impact of police stations on criminal nests <br/>
 ### Zoom in and out and click on the dots to see the detailed descriptions 
 <iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Lincoln Crime Analysis" src="//www.arcgis.com/apps/Embed/index.html?webmap=74a9a1ec3b564835901a1e6fe1c9e5c4&extent=-96.8625,40.7454,-96.5261,40.8519&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe> <br/>
